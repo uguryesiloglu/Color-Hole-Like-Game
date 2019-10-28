@@ -6,12 +6,14 @@ What I will add in coming days:
 - Interlevel animations,
 - Boundaries to playground
 - Adding victim objects by scripts.
+- Bonus level with a timer.
 - Some new levels.
 
 What I have achived so far:
 - Game UI design.
 - Destroying victims when they fall to the hole.
 - Score system.
+- Timer
 
 <hr/>
 
