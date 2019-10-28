@@ -10,7 +10,7 @@ What I will add in coming days:
 
 What I have achived so far:
 - Game UI design.
-- Game logic.
+- Destroying victims when they fall to the hole.
 - Score system.
 
 <hr/>
